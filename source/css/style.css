@@ -38,14 +38,14 @@ h1 {
 }
 
 .exploitButton {
-    border-radius: 700px;
+    border-radius: 90px;
     outline: none;
     border: none;
     box-shadow: none;
     background-color: #202020;
     color: #e5e5e5;
     padding: 15px;
-    width: 90%;   
+    width: 30%;   
     font-size: 15px; 
     margin: 5%;
 }
