@@ -7,9 +7,9 @@
  }
 
 body {
-    font-family: monospace;
-    background-color: black;
-    color: #e5e5e5;       
+    font-family: -apple-system;
+    background-color: white;
+    color: #1a1a1a;       
 }
 
 h1, h5 {
@@ -42,8 +42,8 @@ h1 {
     outline: none;
     border: none;
     box-shadow: none;
-    background-color: #202020;
-    color: #e5e5e5;
+    background-color: #dedede;
+    color: #1a1a1a;
     padding: 15px;   
     font-size: 15px; 
     margin: 5%;
@@ -66,8 +66,8 @@ h1 {
 .jbBox {    
     border-radius: 7px;
     box-shadow: none;
-    background-color: #202020;
-    color: #e5e5e5;
+    background-color: #dedede;
+    color: #1a1a1a;
     padding: 25px;
     font-size: 15px;
     margin: 30px;
