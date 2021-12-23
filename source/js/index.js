@@ -7,9 +7,9 @@ currentFirmware = function (userAgent) {
 function slideEasterEgg() {
 	headerTapCounter++;
 	
-	if (headerTapCounter == 4) {
+	if (headerTapCounter == 5) {
 		 $('.header').click(function () {
-          $.toast('this jailbreak was developed by RPwnage in 2021', 3000);
+			 document.write("<h1>L0L</h1>")
         });
 		
 		
