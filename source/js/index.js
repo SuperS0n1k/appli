@@ -6,8 +6,14 @@ currentFirmware = function (userAgent) {
 
 function slideEasterEgg() {
 	headerTapCounter++;
-	if (headerTapCounter == 5) {
-		$.toast('this jailbreak was developed by RPwnage in 2021', 3000);
+	
+	if (headerTapCounter == 4) {
+		 $('.header').click(function () {
+          $.toast('this jailbreak was developed by RPwnage in 2021', 3000);
+        });
+		
+		
+	
 	}
 }
 
